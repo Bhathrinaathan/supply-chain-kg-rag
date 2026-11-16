@@ -1,0 +1,150 @@
+ticker,name,country,has_price,cik,qid,is_adr,home_exchange,adr_ticker,name_aliases
+NVDA,NVIDIA,US,True,0001045810,Q182477,False,NASDAQ,,
+AMD,Advanced Micro Devices,US,True,0000002488,Q128896,False,NASDAQ,,
+INTC,Intel,US,True,0000050863,Q248,False,NASDAQ,,
+AVGO,Broadcom,US,True,0001730168,Q555925,False,NASDAQ,,
+QCOM,Qualcomm,US,True,0000804328,Q544847,False,NASDAQ,,
+TXN,Texas Instruments,US,True,0000097476,Q193412,False,NASDAQ,,
+ADI,Analog Devices,US,True,0000006281,Q484930,False,NASDAQ,,
+MCHP,Microchip Technology,US,True,0000827054,Q1545076,False,NASDAQ,,
+NXPI,NXP Semiconductors,NL,True,0001413447,Q1155668,False,NASDAQ,,NXP
+ON,ON Semiconductor,US,True,0001097864,Q1671509,False,NASDAQ,,onsemi|ON Semi
+MRVL,Marvell Technology,US,True,0001835632,Q1347782,False,NASDAQ,,Marvell
+SWKS,Skyworks Solutions,US,True,0000004127,Q7538146,False,NASDAQ,,
+QRVO,Qorvo,US,True,0001604778,Q18169198,False,NASDAQ,,
+MPWR,Monolithic Power Systems,US,True,0001280452,Q22058448,False,NASDAQ,,
+SITM,SiTime,US,True,0001451809,Q13097178,False,NASDAQ,,
+CRUS,Cirrus Logic,US,True,0000772406,Q1067998,False,NASDAQ,,
+AMBA,Ambarella,US,True,0001280263,Q4741030,False,NASDAQ,,
+MTSI,MACOM Technology Solutions,US,True,0001493594,Q17109447,False,NASDAQ,,MACOM
+SLAB,Silicon Laboratories,US,True,0001038074,Q2286044,False,NASDAQ,,Silicon Labs
+ALGM,Allegro MicroSystems,US,True,0000866291,Q18616140,False,NASDAQ,,Allegro
+SMTC,Semtech,US,True,0000088941,Q3459777,False,NASDAQ,,
+DIOD,Diodes Inc,US,True,0000029002,Q5279096,False,NASDAQ,,Diodes Incorporated
+POWI,Power Integrations,US,True,0000833640,Q30265954,False,NASDAQ,,
+CEVA,CEVA Inc,US,True,0001173489,,False,NASDAQ,,
+RMBS,Rambus,US,True,0000917273,Q37471805,False,NASDAQ,,
+PI,Impinj,US,True,0001114995,Q4041316,False,NASDAQ,,
+WOLF,Wolfspeed,US,True,0000895419,Q5183828,False,NYSE,,Cree
+COHR,Coherent Corp,US,True,0000820318,Q15109887,False,NYSE,,II-VI
+IPGP,IPG Photonics,US,True,0001111928,Q5973024,False,NASDAQ,,
+MKSI,MKS Instruments,US,True,0001049502,Q30283915,False,NASDAQ,,
+GFS,GlobalFoundries,US,True,0001709048,Q691592,False,NASDAQ,,Global Foundries
+TSEM,Tower Semiconductor,IL,True,0000928876,Q7829730,False,NASDAQ,,Tower Semiconductor Manufacturing
+LSCC,Lattice Semiconductor,US,True,0000855658,Q747207,False,NASDAQ,,
+NVTS,Navitas Semiconductor,US,True,0001821769,Q137596590,False,NASDAQ,,
+CRDO,Credo Technology Group,US,True,0001807794,Q137169107,False,NASDAQ,,
+IDCC,InterDigital,US,True,0001405495,Q6044894,False,NASDAQ,,
+ENPH,Enphase Energy,US,True,0001463101,Q17012234,False,NASDAQ,,
+AMAT,Applied Materials,US,True,0000006951,Q621610,False,NASDAQ,,
+LRCX,Lam Research,US,True,0000707549,Q1342041,False,NASDAQ,,Lam Research Corp
+KLAC,KLA,US,True,0000319201,Q41753,False,NASDAQ,,KLA Corp|KLA-Tencor
+TER,Teradyne,US,True,0000097210,Q2404292,False,NASDAQ,,
+ONTO,Onto Innovation,US,True,0000704532,Q7377461,False,NYSE,,
+COHU,Cohu Inc,US,True,0000021535,,False,NASDAQ,,
+ACLS,Axcelis Technologies,US,True,0001113232,Q4830196,False,NASDAQ,,
+FORM,FormFactor,US,True,0001039399,Q30272312,False,NASDAQ,,
+AEHR,Aehr Test Systems,US,True,0001040470,Q124224170,False,NASDAQ,,
+PLAB,Photronics,US,True,0000810136,Q7187948,False,NASDAQ,,
+CAMT,Camtek,IL,True,0001109138,Q61125462,False,NASDAQ,,
+ENTG,Entegris,US,True,0001101302,Q5380128,False,NASDAQ,,
+UCTT,Ultra Clean Holdings,US,True,0001275014,,False,NASDAQ,,
+ICHR,Ichor Holdings,US,True,0001652535,,False,NASDAQ,,
+KLIC,Kulicke and Soffa Industries,US,True,0000056978,,False,NASDAQ,,
+AMKR,Amkor Technology,US,True,0001047127,Q472536,False,NASDAQ,,
+AZTA,Azenta,US,True,0000933974,Q117169721,False,NASDAQ,,Brooks Automation
+TTMI,TTM Technologies,US,True,0001116942,Q123269714,False,NASDAQ,,
+MU,Micron Technology,US,True,0000723125,Q1197548,False,NASDAQ,,
+WDC,Western Digital,US,True,0000106040,Q738770,False,NASDAQ,,Western Digital Corp
+STX,Seagate Technology,US,True,0001137789,Q705392,False,NASDAQ,,
+ARM,Arm Holdings,GB,True,0001973239,Q296782,False,NASDAQ,,ARM Holdings
+SNPS,Synopsys,US,True,0000883241,Q2303478,False,NASDAQ,,
+CDNS,Cadence Design Systems,US,True,0000813672,Q608776,False,NASDAQ,,Cadence
+VIAV,Viavi Solutions,US,True,0000912093,Q28222763,False,NASDAQ,,JDSU
+LITE,Lumentum Holdings,US,True,0001633978,Q106253770,False,NASDAQ,,
+FLEX,Flex Ltd,US,True,0000866374,Q1140680,False,NASDAQ,,Flextronics
+JBL,Jabil Inc,US,True,0000898293,,False,NYSE,,Jabil
+CLS,Celestica,CA,True,0001030894,Q225440,False,NYSE,,
+SANM,Sanmina Corp,US,True,0000897723,Q426583,False,NASDAQ,,
+PLXS,Plexus Corp,US,True,0000785786,Q2099437,False,NASDAQ,,
+AAPL,Apple,US,True,0000320193,Q312,False,NASDAQ,,Apple Inc
+HPQ,HP Inc,US,True,0000047217,Q21404084,False,NYSE,,
+HPE,Hewlett Packard Enterprise,US,True,0001645590,Q19923099,False,NYSE,,
+DELL,Dell Technologies,US,True,0001571996,Q27500963,False,NYSE,,
+NTAP,NetApp,US,True,0001002047,Q727883,False,NASDAQ,,
+PSTG,Pure Storage,US,True,0001474735,Q7261135,False,NYSE,,
+SMCI,Super Micro Computer,US,True,0001375365,Q1817174,False,NASDAQ,,Supermicro
+CSCO,Cisco Systems,US,True,0000858877,Q173395,False,NASDAQ,,Cisco
+ANET,Arista Networks,US,True,0001596532,Q2861324,False,NYSE,,
+MSI,Motorola Solutions,US,True,0000068505,Q634815,False,NYSE,,
+VRT,Vertiv Holdings,US,True,0001674101,Q5370909,False,NYSE,,
+LIN,Linde,IE,True,0001707925,Q1593799,False,NASDAQ,,Linde plc
+APD,Air Products and Chemicals,US,True,0000002969,Q407744,False,NYSE,,Air Products
+F,Ford Motor,US,True,0000037996,Q44294,False,NYSE,,Ford
+GM,General Motors,US,True,0001467858,Q81965,False,NYSE,,
+TSLA,Tesla,US,True,0001318605,Q478214,False,NASDAQ,,
+STLA,Stellantis NV,NL,True,0001605484,,True,NYSE,,PSA|FCA|Fiat Chrysler
+RACE,Ferrari NV,IT,True,0001648416,,True,NYSE,,Ferrari
+APTV,Aptiv,IE,True,0001521332,Q643626,False,NYSE,,Delphi Technologies
+BWA,BorgWarner,US,True,0000908255,Q825943,False,NYSE,,
+MGA,Magna International,CA,True,0000749098,Q697311,False,NYSE,,
+VC,Visteon,US,True,0001111335,Q637474,False,NASDAQ,,
+LEA,Lear Corp,US,True,0000842162,Q502344,False,NYSE,,
+DAN,Dana Inc,US,True,0000026780,Q5214701,False,NYSE,,Dana Incorporated
+GNTX,Gentex Corp,US,True,0000355811,Q5533604,False,NASDAQ,,
+GT,Goodyear Tire and Rubber,US,True,0000042582,Q620875,False,NASDAQ,,Goodyear
+THRM,Gentherm,US,True,0000903129,Q16994021,False,NASDAQ,,
+ADNT,Adient,IE,True,0001670541,Q26832896,False,NYSE,,
+ALSN,Allison Transmission,US,True,0001411207,Q2036530,False,NYSE,,
+SMP,Standard Motor Products,US,True,0000093389,Q17153083,False,NYSE,,
+LKQ,LKQ Corp,US,True,0001065696,Q20711490,False,NASDAQ,,
+MBLY,Mobileye Global,US,True,0001910139,Q116985634,False,NASDAQ,,Mobileye
+OUST,Ouster,US,True,0001816581,Q16860311,False,NYSE,,
+INVZ,Innoviz Technologies,IL,True,0001835654,Q111804995,False,NASDAQ,,
+MSFT,Microsoft,US,True,0000789019,Q2283,False,NASDAQ,,
+GOOGL,Alphabet,US,True,0001652044,Q20800404,False,NASDAQ,,Google
+AMZN,Amazon,US,True,0001018724,Q3884,False,NASDAQ,,
+META,Meta Platforms,US,True,0001326801,Q380,False,NASDAQ,,Facebook
+ORCL,Oracle,US,True,0001341439,Q19900,False,NYSE,,
+IBM,IBM,US,True,0000051143,Q37156,False,NYSE,,International Business Machines
+ASML,ASML Holding,NL,True,0000937966,Q297879,True,NASDAQ,ASML.AS,
+STM,STMicroelectronics,IT,True,0000932787,Q661845,True,NYSE,,ST Microelectronics
+IFX.DE,Infineon Technologies,DE,True,,Q311394,False,XETRA,,Infineon
+BMW.DE,BMW AG,DE,True,,Q26678,False,XETRA,,Bayerische Motoren Werke
+MBG.DE,Mercedes-Benz Group,DE,True,,Q27530,False,XETRA,,Mercedes-Benz|Daimler
+VOW3.DE,Volkswagen AG,DE,True,,Q156578,False,XETRA,,VW|Volkswagen
+CON.DE,Continental AG,DE,True,0002014596,Q163241,False,XETRA,,Continental
+RHM.DE,Rheinmetall AG,DE,True,,Q161544,False,XETRA,,Rheinmetall
+DUE.DE,Durr AG,DE,True,,Q1272125,False,XETRA,,Dürr
+BESI.AS,BE Semiconductor Industries,NL,True,,Q48988067,False,Euronext Amsterdam,,Besi
+ASM.AS,ASM International,NL,True,,Q15994906,False,Euronext Amsterdam,,ASMI
+SOI.PA,Soitec,FR,True,,Q3488995,False,Euronext Paris,,
+FR.PA,Valeo SA,FR,True,0000921825,,False,Euronext Paris,,Valeo
+FRVIA.PA,Forvia,FR,True,,Q142205,False,Euronext Paris,,Faurecia|EO.PA
+WAF.DE,Siltronic AG,DE,True,,Q100337494,False,XETRA,,Siltronic
+AMS.SW,AMS-Osram AG,CH,True,0000744825,Q477875,False,SIX Swiss Exchange,,AMS|Osram
+TSM,Taiwan Semiconductor Manufacturing,TW,True,0001046179,Q713418,True,NYSE,2330.TW,TSMC
+UMC,United Microelectronics,TW,True,0001033767,Q143616,True,NYSE,2303.TW,
+ASX,ASE Technology Holding,TW,True,0001122411,Q25054159,True,NYSE,3711.TW,ASE Group
+HIMX,Himax Technologies,TW,True,0001342338,,True,NASDAQ,,
+SIMO,Silicon Motion Technology,TW,True,0001329394,Q11074158,True,NASDAQ,,
+IMOS,ChipMOS Technologies,TW,True,0001123134,Q117255831,True,NASDAQ,,
+2409.TW,AU Optronics,TW,True,,Q67815037,False,TWSE,,AUO Corp
+ACMR,ACM Research,US,True,0001680062,Q125936376,False,NASDAQ,,
+SONY,Sony Group,JP,True,0000313838,Q41187,True,NYSE,6758.T,Sony
+TM,Toyota Motor,JP,True,0001094517,Q53268,True,NYSE,7203.T,Toyota
+HMC,Honda Motor,JP,True,0000715153,Q9584,True,NYSE,7267.T,Honda
+NSANY,Nissan Motor,JP,True,,Q20165,True,OTC,7201.T,Nissan
+DNZOY,Denso Corp,JP,True,,Q176508,True,OTC,6902.T,Denso
+FUJHY,Subaru Corp,JP,True,,Q1051297,True,OTC,7270.T,Fuji Heavy Industries|Subaru
+TOELY,Tokyo Electron,JP,True,,Q1351484,True,OTC,8035.T,Tokyo Electron Ltd|TEL
+ATEYY,Advantest Corp,JP,True,0001158838,Q2722179,True,OTC,6857.T,Advantest
+SHECY,Shin-Etsu Chemical,JP,True,,Q904284,True,OTC,4063.T,Shin-Etsu
+SUOPY,Sumco Corp,JP,True,,Q2208172,True,OTC,3436.T,Sumco
+RNECY,Renesas Electronics,JP,True,,Q1196269,True,OTC,6723.T,Renesas
+KYCCF,Kyocera Corp,JP,True,,Q745099,True,OTC,6971.T,Kyocera
+LPL,LG Display,KR,True,0001290109,Q483006,True,NYSE,034220.KS,LG Display Co
+MX,Magnachip Semiconductor,KR,True,0001325702,Q12594908,False,NYSE,,
+SSNLF,Samsung Electronics,KR,True,,Q20718,True,OTC,005930.KS,Samsung
+HNHPF,Hon Hai Precision Industry,TW,True,,Q463094,True,OTC,2317.TW,Foxconn
+BOSCH,Robert Bosch GmbH,DE,False,,Q234021,False,,,

@@ -1,0 +1,40 @@
+# MLX-LM LoRA fine-tuning config
+# rag_architecture.md §4: rank 8, alpha 16, lr 2e-5, ~1 epoch
+# Adapter saved to models/raft_lora_mlx/
+
+model: "mlx-community/Meta-Llama-3.1-8B-Instruct-4bit"
+train: true
+data: "data/finetune/mlx"
+
+# LoRA hyperparameters
+# num_layers: 16→8→4; seq_len: 1024→512→1024; memory ~= 512/8 (6GB, safe on M4)
+# 4 layers × 1024 tok ≈ same activation budget as 8 layers × 512 tok but no NaN
+fine_tune_type: "lora"
+num_layers: 4
+lora_parameters:
+  rank: 8
+  alpha: 16
+  dropout: 0.05
+  scale: 10.0
+
+# Training
+batch_size: 1
+grad_accumulation_steps: 4       # effective batch = 4
+iters: 1500                       # ~1 epoch on 1,104 examples (batch=1)
+learning_rate: 2e-5
+optimizer: "adamw"
+grad_checkpoint: true
+mask_prompt: true                 # only train on assistant completions
+
+# Logging / checkpointing
+steps_per_report: 25
+steps_per_eval: 200
+val_batches: 25
+save_every: 500
+adapter_path: "models/raft_lora_mlx"
+
+# Restored to 1024; at num_layers=4 memory is ~same as 512/8 but prompts now fit
+max_seq_length: 1024
+
+# Reproducibility
+seed: 42

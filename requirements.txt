@@ -1,0 +1,10 @@
+# Data-collection pipeline dependencies (Python 3.11)
+# Pin versions once a run is known-good, to insulate against upstream breakage (esp. yfinance).
+yfinance==1.4.1        # prices (primary). Pin: it reverse-engineers Yahoo and breaks on redesigns.
+pandas>=2.0
+pyarrow>=14.0          # Parquet
+requests>=2.31         # SEC EDGAR, Wikidata, Stooq
+pdfplumber>=0.11       # Apple supplier-list PDF table extraction
+neo4j>=5.0             # official driver
+networkx>=3.0          # portable mirror / fallback graph
+# Optional: pandas_datareader (alternative Stooq access)

@@ -1,0 +1,15 @@
+{
+  "id": "bhathrinaathanmb/raft-qlora-fine-tune-llama-3-1-8b",
+  "title": "raft-qlora-fine-tune-llama-3-1-8b",
+  "code_file": "kaggle_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["bhathrinaathanmb/raft-supply-chain"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
